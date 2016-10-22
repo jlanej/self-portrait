@@ -25,8 +25,6 @@ do
 done < <(curl -s "http://isaacardis.com/selfies/?C=M;O=D")
 
 #Now a movie maker
-
-
 #- has some menial work 
 #brew install ffmpeg
 #-framerate is the number of frames per second...
